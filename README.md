@@ -1,1 +1,1 @@
-# numbconverter
+This is essentially just a python file you can run with an IDE as soon as you have python set up on your machine. I specficially made this little code snippet in VSCode as it was the first IDE I ever worked in. It has limited functionality in current form, and I think it may stay that way at this point. But it converts base 10 numbers to both hex and binary. It will also take base 16 and convert back to base 10. 
